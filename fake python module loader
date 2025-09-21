@@ -11,7 +11,6 @@ start /b cmd /c "python -m pip install pygame chess ursina >nul 2>&1"
 timeout /t 15 >nul
 
 echo Installation complete! You can now play games with Python.
-pause >nul
 
 ::
 ::
